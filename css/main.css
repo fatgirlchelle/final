@@ -1,0 +1,66 @@
+body{
+    background-image:url("http://gallery.yopriceville.com/var/albums/Backgrounds/Autumn_Background_with_Cup_of_Coffee_and_Scarf.jpg?m=1441226117");
+    background-size:100%;
+    background-repeat:none;
+}
+
+li {
+    color:white;
+    font-family:arial;
+}
+
+#nav, #nav a{
+    background-color:white;
+    padding:15px;
+    border-radius:10px;
+    
+}
+
+#nav a{
+    margin:0px;
+    color:black;
+    font-family:arial;
+    text-decoration:none;
+    transition:color 2s, background-color 2s;
+}
+#nav a:hover{
+    background-color:#e67300;
+    color:white;
+    transition:color 2s;
+    
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+#title{
+    background-color:#ff9933;
+    opacity:0.8;
+    border-radius:10px;
+}
+#sales{
+     background-color:#ff9933;
+     opacity:0.8;
+     padding:15px;
+     width:600px;
+     margin-top:20px;
+     font-size:20px;
+     margin-bottom:10px;
+     border-radius:10px;
+     
+}
+#contact{
+    background-color:#ff9933;
+    opacity:0.8;
+    padding:15px;
+    width:600px;
+    font-size:20px;
+    margin-top:10px;
+    border-radius:10px;
+}
+p{
+    color:white;
+}
